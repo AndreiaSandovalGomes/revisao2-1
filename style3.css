@@ -1,0 +1,54 @@
+.corpo {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  border-radius: 75px;
+  position: relative;
+}
+
+.fundoDoOlho {
+  width: 20px;
+  height: 40px;
+  border-radius: 30px;
+  background-color: white;
+  position: absolute;
+}
+
+.fundoEsquerdo {
+  top: 30px;
+  left: 45px;
+}
+
+.fundoDireito {
+  top: 30px;
+  right: 45px;
+}
+
+.irisDoOlho {
+  width: 10px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: black;
+  position: absolute;
+}
+
+.irisEsquerdo {
+  top: 45px;
+  left: 50px;
+}
+
+.irisDireito {
+  top: 45px;
+  right: 50px;
+}
+
+.boca {
+  width: 50px;
+  height: 30px;
+  position: absolute;
+  background-color: white;
+  left: 50px;
+  bottom: 30px;
+  border-bottom-left-radius:  20px;
+  border-bottom-right-radius:  20px;
+}

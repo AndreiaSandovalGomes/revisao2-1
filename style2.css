@@ -1,0 +1,41 @@
+.caixinha {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+}
+.caixinha2 {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+}
+
+.caixona {
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+  position: relative;
+  top: 100px
+}
+.caixona2 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  position: relative;
+  top: 100px;
+}
+
+.p-ab {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.bolinha {
+  width: 50px;
+  height: 50px;
+  background-color: pink;
+  border-radius: 25px;
+  position: fixed;
+  top: 200px;
+  right: 10px;
+}
